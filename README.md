@@ -2,6 +2,8 @@
 
 This online Shiny application combines Shiny and Leaflet to create a search map to find the MacDonalds around (could generalized to include other dining places).
 
+<https://bolaik.shinyapps.io/MacDonaldMap/>
+
 The usage of the online app is straightforward. The user is required to input a valid zip code (where you are?) and the range (in miles from where you are) that is reachable to you.
 
 In the main panel, there will display a map showing your current location with a marker and all the available MacDonalds near you with circle markers. A table underneath the map, lists all the addresses of the MacDonalds and the miles from you.
@@ -18,4 +20,8 @@ The distance between different places given longitude and latitude coordinates a
 
 The source code is available on the following GitHub repository: 
 
-<https://github.com/bolaik/ShinyMapMacDonald>.
+<https://github.com/bolaik/ShinyMacDonaldMap>.
+
+Check the slides for more info of this app:
+
+<http://rpubs.com/bolaik/242493>.
