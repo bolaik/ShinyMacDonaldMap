@@ -25,3 +25,7 @@ The source code is available on the following GitHub repository:
 Check the slides for more info of this app:
 
 <http://rpubs.com/bolaik/242493>.
+
+## Links for other nice apps
+
+<https://github.com/b33lie/shiny_app_mtcars>
